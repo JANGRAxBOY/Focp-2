@@ -358,35 +358,6 @@ int main(){
 
     
     cout << "The result of (a^b + c&d) is: " << result << endl;
-
-    
-
-
-    
-
-
-    
-
-
-    
-
-
-
-
-
-    
-
-
-
-  
-  
-  
-
-
-
-
-
-  
    return 0;
 }
 
